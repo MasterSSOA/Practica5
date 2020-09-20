@@ -1,0 +1,7 @@
+C:\Users\Antho\source\repos\Practica5\Practica5\Practica5e4\bin\Debug\Practica5e4.exe.config
+C:\Users\Antho\source\repos\Practica5\Practica5\Practica5e4\bin\Debug\Practica5e4.exe
+C:\Users\Antho\source\repos\Practica5\Practica5\Practica5e4\bin\Debug\Practica5e4.pdb
+C:\Users\Antho\source\repos\Practica5\Practica5\Practica5e4\obj\Debug\Practica5e4.csproj.CoreCompileInputs.cache
+C:\Users\Antho\source\repos\Practica5\Practica5\Practica5e4\obj\Debug\Practica5e4.exe
+C:\Users\Antho\source\repos\Practica5\Practica5\Practica5e4\obj\Debug\Practica5e4.pdb
+C:\Users\Antho\source\repos\Practica5\Practica5\Practica5e4\obj\Debug\Practica5e4.csprojAssemblyReference.cache

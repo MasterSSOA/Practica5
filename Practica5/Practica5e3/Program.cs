@@ -1,4 +1,4 @@
-﻿//Práctica 5 Ejercicio 2.
+﻿//Práctica 5 Ejercicio 3.
 //Nota : Programa capaz permitir ordenar elementos a traves de 
 //       un arreglo.
 //
@@ -25,6 +25,7 @@ namespace Practica5e3
             };
             Array.Sort(Elementos);
 
+            //Lógica.
             for (int i = 0; i < Elementos.Length; i++)
             {
                 Console.WriteLine(Elementos[i]);
