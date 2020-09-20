@@ -1,5 +1,5 @@
 ﻿//Práctica 5 Ejercicio 2.
-//Nota : Programa capaz registrar 4 notas a traves de un arreglo.
+//Nota : Programa capaz registrar 4 notas a traves de una lista.
 //
 // 
 //                                         © Anthony Reyes Duran
