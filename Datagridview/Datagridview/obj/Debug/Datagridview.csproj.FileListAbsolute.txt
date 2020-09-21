@@ -1,0 +1,10 @@
+C:\Users\Antho\source\repos\Practica5\Datagridview\Datagridview\bin\Debug\Datagridview.exe.config
+C:\Users\Antho\source\repos\Practica5\Datagridview\Datagridview\bin\Debug\Datagridview.exe
+C:\Users\Antho\source\repos\Practica5\Datagridview\Datagridview\bin\Debug\Datagridview.pdb
+C:\Users\Antho\source\repos\Practica5\Datagridview\Datagridview\obj\Debug\Datagridview.csprojAssemblyReference.cache
+C:\Users\Antho\source\repos\Practica5\Datagridview\Datagridview\obj\Debug\Datagridview.Form1.resources
+C:\Users\Antho\source\repos\Practica5\Datagridview\Datagridview\obj\Debug\Datagridview.Properties.Resources.resources
+C:\Users\Antho\source\repos\Practica5\Datagridview\Datagridview\obj\Debug\Datagridview.csproj.GenerateResource.cache
+C:\Users\Antho\source\repos\Practica5\Datagridview\Datagridview\obj\Debug\Datagridview.csproj.CoreCompileInputs.cache
+C:\Users\Antho\source\repos\Practica5\Datagridview\Datagridview\obj\Debug\Datagridview.exe
+C:\Users\Antho\source\repos\Practica5\Datagridview\Datagridview\obj\Debug\Datagridview.pdb
